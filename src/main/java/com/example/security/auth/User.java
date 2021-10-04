@@ -1,7 +1,6 @@
 package com.example.security.auth;
 
 import java.util.Collection;
-import java.util.List;
 import java.util.Set;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
